@@ -1,4 +1,13 @@
-# 505Project
+# CS 505: Intro to NLP Project (Spring 22)
+## Low Resource Language Text Classification
+
+Team Members:
+  1. Adam Clay [acclay@bu.edu]
+  2.
+  3.
+  4.
+  5.
+  6.
 
 We used 12 classifiers for this project. The notebooks for each model is present in their respective folders. To run the notebooks, keep 
   1. all data files from the main folder, and 
