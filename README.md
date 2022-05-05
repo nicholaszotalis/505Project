@@ -2,12 +2,12 @@
 ## Low Resource Language Text Classification
 
 Team Members:
-  1. Adam Clay [acclay@bu.edu]
-  2.
-  3.
-  4.
-  5.
-  6.
+  1. Adam Clay (acclay@bu.edu)
+  2. Aditya Agrawal (adityaai@bu.edu)
+  3. Keith Tyser (ktyser@bu.edu)
+  4. Minh Nguyen (minhng99@bu.edu)
+  5. Nicholas Zotalis (nzotalis@bu.edu)
+  6. Sichao Yu (sichaoy@bu.edu)
 
 We used 12 classifiers for this project. The notebooks for each model is present in their respective folders. To run the notebooks, keep 
   1. all data files from the main folder, and 
