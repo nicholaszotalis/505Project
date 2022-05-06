@@ -24,7 +24,7 @@ in the same directory.
 
 [Link to the Challenge](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge)
 
-[Link to Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1TJqDW-1_XlHr7Zv4RsYMB-65evE6c8q47bltMftypJo/edit?usp=sharing)
+[Link to Project Presentation](https://github.com/nicholaszotalis/505Project/blob/main/505%20Project%20Report.pdf)
 
 [Link to Project Report (Google Docs)](https://docs.google.com/document/d/1mUeJW-kQMPsM5_ZNRfKHZfDJir-hAYsnDAbzziDyxN8/edit)
 
